@@ -2,5 +2,6 @@
 <br>
 <p>Below is the visual presentation of web pages</p>
 #Main landing page<br>
+<p>
 ![image](https://github.com/user-attachments/assets/bd49d9db-7e5d-422a-bf51-5d305b98663f)
-
+</p>
